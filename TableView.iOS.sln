@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableView.iOS", "TableView.iOS\TableView.iOS.csproj", "{C38CE1D6-461C-49C9-948E-B499CBF8C443}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C38CE1D6-461C-49C9-948E-B499CBF8C443}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{C38CE1D6-461C-49C9-948E-B499CBF8C443}.Debug|iPhone.Build.0 = Debug|iPhone
+		{C38CE1D6-461C-49C9-948E-B499CBF8C443}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{C38CE1D6-461C-49C9-948E-B499CBF8C443}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{C38CE1D6-461C-49C9-948E-B499CBF8C443}.Release|iPhone.ActiveCfg = Release|iPhone
+		{C38CE1D6-461C-49C9-948E-B499CBF8C443}.Release|iPhone.Build.0 = Release|iPhone
+		{C38CE1D6-461C-49C9-948E-B499CBF8C443}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{C38CE1D6-461C-49C9-948E-B499CBF8C443}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
